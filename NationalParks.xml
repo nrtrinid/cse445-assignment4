@@ -51,6 +51,7 @@
   <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
+    <Phone>207-288-8702</Phone>
     <Address NearestAirport="Bangor">
       <Number>20</Number>
       <Street>McFarland Hill Drive</Street>
@@ -106,6 +107,7 @@
   <NationalPark>
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
+    <Phone>435-259-6003</Phone>
     <Address NearestAirport="Grand Junction">
       <Number>2282</Number>
       <Street>SW Resource Boulevard</Street>
