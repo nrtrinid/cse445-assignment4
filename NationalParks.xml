@@ -28,7 +28,6 @@
   <NationalPark>
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
-    <Phone>209-372-1000</Phone>
     <Address NearestAirport="Fresno">
       <Number>9035</Number>
       <Street>Village Drive</Street>
@@ -52,7 +51,6 @@
   <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
-    <Phone>207-288-8702</Phone>
     <Address NearestAirport="Bangor">
       <Number>20</Number>
       <Street>McFarland Hill Drive</Street>
@@ -64,7 +62,6 @@
   <NationalPark Rating="4.8">
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
-    <Phone>970-586-1333</Phone>
     <Address NearestAirport="Denver">
       <Number>1000</Number>
       <Street>US Highway 36</Street>
@@ -76,7 +73,6 @@
   <NationalPark>
     <Name>Great Smoky Mountains</Name>
     <Phone>865-436-1200</Phone>
-    <Phone>865-436-1291</Phone>
     <Address NearestAirport="Knoxville">
       <Number>107</Number>
       <Street>Park Headquarters Road</Street>
@@ -88,7 +84,6 @@
   <NationalPark Rating="4.7">
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
-    <Phone>760-367-3019</Phone>
     <Address NearestAirport="Palm Springs">
       <Number>74485</Number>
       <Street>National Park Drive</Street>
@@ -100,7 +95,6 @@
   <NationalPark Rating="4.7">
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
-    <Phone>305-242-7755</Phone>
     <Address NearestAirport="Miami">
       <Number>40001</Number>
       <Street>State Road 9336</Street>
@@ -112,7 +106,6 @@
   <NationalPark>
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
-    <Phone>435-259-6003</Phone>
     <Address NearestAirport="Grand Junction">
       <Number>2282</Number>
       <Street>SW Resource Boulevard</Street>
@@ -124,7 +117,6 @@
   <NationalPark Rating="4.8">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
-    <Phone>360-565-3131</Phone>
     <Address NearestAirport="Seattle">
       <Number>3002</Number>
       <Street>Mount Angeles Road</Street>
