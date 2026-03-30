@@ -19,9 +19,9 @@ namespace ConsoleApp1
 
     public class Submission
     {
-        public static string xmlURL = "NationalParks.xml";
-        public static string xmlErrorURL = "NationalParksErrors.xml";
-        public static string xsdURL = "NationalParks.xsd";
+        public static string xmlURL = "https://nrtrinid.github.io/cse445-assignment4/NationalParks.xml";
+        public static string xmlErrorURL = "https://nrtrinid.github.io/cse445-assignment4/NationalParksErrors.xml";
+        public static string xsdURL = "https://nrtrinid.github.io/cse445-assignment4/NationalParks.xsd";
 
         public static void Main(string[] args)
         {
